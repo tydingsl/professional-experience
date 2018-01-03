@@ -4,4 +4,4 @@ Each link in the checklist below opens a file of instructions for an onboarding 
 
 # Onboarding Activities
 
-- [ ] Learn about GitHub-flavored markdown
+- [ ] [Learn about GitHub-flavored markdown](./1.githubFlavoredMarkdown.md)
