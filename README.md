@@ -1,6 +1,6 @@
 # Professional Experience
 
-This repository is a kind of training manual for students in D&E computer science Professional Experience courses. Each student has their own copy of the repository, so it is also used as your pesonnel file for performance reviews, plans, etc.
+This repository is a kind of training manual for students in D&E computer science Professional Experience courses. Each student has their own copy of the repository, so it is also used as your personnel file for performance reviews, plans, etc.
 
 Professional Experience courses create a simulated work environment, and that shapes the language that we use. We are running a company. You are not "students", you are "staff". We have "clients". You have "teammates", not "classmates". We don't hold "class", we have "meetings".
 
