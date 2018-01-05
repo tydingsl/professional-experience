@@ -8,7 +8,7 @@ Node is very low level, allowing software to listen on specified network ports. 
 
 Each application is logically divided into "services". A service is roughly an analog to an "object" in object-oriented terms. For example, the NLC attendance app has three main services: staff, student, and visit. These are the central concepts that the app is dealing with 
 
-The code for a typical service is separated into four pieces. The first three are the service's model, view, and controller, following the well-known MVC design pattern. The fourth is the test code for the service; this is subdivided into tests for the model, view, and controller.
+The code for a typical service is separated into four pieces. The first three are the service's model, view, and controller, following the well-known [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) design pattern. The fourth is the test code for the service; this is subdivided into tests for the model, view, and controller.
 
 A service's model is similar to the intro programming concept of objects that model things in the world as software. Since JavaScript is an object-oriented language, each model is a class, where each object of that class represents a real-world object. Sometimes the real-world objects are abstract, like a "visit" to the NLC. The model class defines all the data that a visit "knows" about itself (date, purpose, etc.), and all of the behavior (methods or functions) that it is responsible for. This includes knowledge of how the data is stored and retrieved. Currently, our applications use MySQL, the open-source relational database, to store and retrieve data, but only model classes connect to the database and interact with it.
 
