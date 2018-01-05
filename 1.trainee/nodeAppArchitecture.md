@@ -18,7 +18,7 @@ Finally, a service has one controller. This is where our apps make use of expres
 
 ## The template/example application
 
-The template repo contains a simple "do nothing" application built on this architecture. It implements one service that is given the generic placeholder name "item". 
+[The template repo](https://github.com/dewv/webapp-template) contains a simple "do nothing" application built on this architecture. It implements one service that is given the generic placeholder name "item". 
 
 One purpose of the repo is to act as a template or starting point for new applications. Rather than start from scratch, we would typically create a new copy of the repo, copy the generic "item" service's code for each service that is needed, and modify and expand the code for the needs of our new app.
 
@@ -26,6 +26,4 @@ This implies that the template contains our current "best practices" for app des
 
 The other purpose of the repo is training and learning. Without worrying about specific application details (Do we store the student's minor?), you can concentrate on how the code is organized to handle requestions, manipulate data, and generate responses.
 
-The repo's README file contains instructions for how to set up a c9 work environment that runs the sample app.
-
-To complete your training and earn your promotion to IS Specialist, you and your teammates must follow those instructions, then apply your training to implement a new feature in the template app. Management will provide you with specific details.
+To complete your training and earn your promotion to IS Specialist, you and your teammates must apply your training to implement a new feature in the template app. Management will provide you with specific details.
