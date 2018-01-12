@@ -4,4 +4,15 @@ Each link in the checklist below opens a file of instructions for an onboarding 
 
 # Onboarding Activities
 
-- [ ] [Learn about GitHub-flavored markdown](./1.githubFlavoredMarkdown.md)
+- [ ] [Learn about GitHub-flavored markdown](./githubFlavoredMarkdown.md)
+- [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
+- [ ] [Sign the FERPA form](./signFERPA.md)
+- [ ] [Maintain a high standard of professional ethics](./ethics.md)
+- [ ] [Learn HTML](./learnHTML.md)
+- [ ] [Learn CSS](./learnCSS.md)
+- [ ] [Learn JavaScript](./learnJavaScript.md)
+- [ ] [Learn jQuery](./learnJQuery.md)
+- [ ] [Learn SQL](./learnSQL.md)
+- [ ] [Learn Node.js](./learnNode.md)
+- [ ] [Learn Test-Driven Development](./learnTDD.md)
+- [ ] [The architecture of our Node.js applications](./nodeAppArchitecture.md)
