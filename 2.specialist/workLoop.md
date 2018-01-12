@@ -24,10 +24,10 @@ handleWorkTime()	       // triggered whenever you find time to add value
         else
             stop
         	
-findIssuesToBidOn("bug")       // bugs are higher priority than new features
+    findIssuesToBidOn("bug")   // bugs are higher priority than new features
 	
-if you have no Issue assigned to you
-    findIssuesToBidOn("help wanted")
+    if you have no Issue assigned to you
+        findIssuesToBidOn("help wanted")
      
 findIssuesToBidOn(label)       // a helper process called from handleWorkTime()
     while there are open GitHub Issues marked with label
