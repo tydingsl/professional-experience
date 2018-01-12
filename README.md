@@ -11,6 +11,8 @@ Begin by reading the company's home page at https://dewv.net/. It explains:
 2. what we do
 3. why we do it
 
+## Our values and priorities
+
 The same ideas can be expressed as a set of values and priorities. This form is more useful as a guide when making decisions.
 
 > As an organization, we value the following things, in the following order.
@@ -18,9 +20,9 @@ The same ideas can be expressed as a set of values and priorities. This form is 
 > 2. Improving our products and services 
 > 3. Improving our world through the development and operation of computer systems
 
-As a member of the organization, your fundamental responsibility is to *create value*, as defined just above.
+**As a member of the organization, your fundamental responsibility is to *create value*, as defined just above.**
 
-To do that, you need to understand how we work. Your initial training, or "onboarding", covers the technical, organizational, and procedural knowledge you will need to get started. Your onboarding activities are defined in the `1.trainee` folder of this repo.
+To do that, you need to understa	nd how we work. Your initial training, or "onboarding", covers the technical, organizational, and procedural knowledge you will need to get started. Your onboarding activities are defined in the `1.trainee` folder of this repo.
 
 When your onboarding activities are complete, you will be promoted from trainee to Information Systems Specialist-- a full-fledged member of the technical staff. The `2.specialist` folder in this repo provides guidance on the specific responsibilities of this role, and how to go about meeting them.
 

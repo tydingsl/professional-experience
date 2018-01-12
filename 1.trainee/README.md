@@ -8,6 +8,7 @@ Each link in the checklist below opens a file of instructions for an onboarding 
 - [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
 - [ ] [Sign the FERPA form](./signFERPA.md)
 - [ ] [Maintain a high standard of professional ethics](./ethics.md)
+- [ ] [Learn policies and procedures](./learnPoliciesAndProcedures.md)
 - [ ] [Learn HTML](./learnHTML.md)
 - [ ] [Learn CSS](./learnCSS.md)
 - [ ] [Learn JavaScript](./learnJavaScript.md)
