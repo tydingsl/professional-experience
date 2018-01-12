@@ -17,7 +17,7 @@ handleMeetings()	       // triggered each day that the team meets
 handleWorkTime()	       // triggered whenever you find time to add value
     while you have an open GitHub Issue assigned to you
         work on the Issue for one pomodoro cycle
-        post Issue comment: 1 pomodoro worked, describe progress, @mention manager per agreed degree of initiative 
+        post Issue comment: 1 pomodoro worked, describe progress
         if you have more time to work
             take a pomodoro break
             jump to top of loop
