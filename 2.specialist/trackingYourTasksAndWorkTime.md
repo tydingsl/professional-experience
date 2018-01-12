@@ -1,6 +1,6 @@
 # Tracking your tasks and work time
 
-Read [this cheat sheet](https://github.com/dewv/procedures/blob/master/pomodoro_cheat_sheet.pdf) for a time management approach called the Pomodoro technique. The document contains markup and annotations that modify the instructions for use with [GitHub Issues](https://help.github.com/articles/managing-your-work-with-issues/).
+Download and read [this cheat sheet](https://github.com/dewv/procedures/blob/master/pomodoro_cheat_sheet.pdf) for a time management approach called the Pomodoro technique. You will need to download the document because it contains markup and annotations that modify the instructions for use with [GitHub Issues](https://help.github.com/articles/managing-your-work-with-issues/). These annotations are not visible online.
 
 You will use these instructions to track your working time on tasks recorded as GitHub Issues.
 
