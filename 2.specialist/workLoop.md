@@ -12,11 +12,12 @@ handleMeetings()	       // triggered each day that the team meets
     participate in standup meeting for ops
     for each active project where you are assigned an open GitHub Issue
         participate in standup meeting for project
+    report to manager(s) according to agreed upon degree of initiative
 
 handleWorkTime()	       // triggered whenever you find time to add value
     while you have an open GitHub Issue assigned to you
         work on the Issue for one pomodoro cycle
-        post Issue comment: 1 pomodoro worked, describe progress 
+        post Issue comment: 1 pomodoro worked, describe progress, @mention manager per agreed degree of initiative 
         if you have more time to work
             take a pomodoro break
             jump to top of loop
@@ -32,7 +33,7 @@ findIssuesToBidOn(label)       // a helper process called from handleWorkTime()
     while there are open GitHub Issues marked with label
         choose one and bid (post comment that @mentions manager: I propose to work on this)
         meet with the manager _in person_
-        if manager assigns Issue to you
+        if manager assigns Issue to you (along with reporting time and degree of intitiative)
             post comments as needed to cancel other unaccepted bids
             return
 ```
