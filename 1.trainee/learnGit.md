@@ -10,4 +10,4 @@ Begin by completing [this tutorial](https://try.github.io/).
 
 ## How we work with git
 
-Study [our procedures](https://github.com/dewv/procedures/tree/master/git) for working with git and GitHub. You don't need to worry about the Working Branch workflow, but you need to be familiar with the Continuous Integration workflow.
+Study [our process](https://github.com/dewv/procedures/blob/master/git/workingBranch.md) for working with git and GitHub. You don't need to worry about the Working Branch workflow, but you need to be familiar with the Continuous Integration workflow.
