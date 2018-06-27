@@ -10,4 +10,4 @@ To get started in your new role, work through the following tasks.
 - [ ] Learn how to participate in [stand up meetings](https://github.com/dewv/procedures/blob/master/standUpMeetings.md)
 - [ ] Learn to [work with a manager](./workingWithAManager.md)
 - [ ] Learn to [track your tasks and work time](./trackingYourTasksAndWorkTime.md)
-- [ ] Begin your new job: start handling events in the [work loop](./workLoop.md)
+- [ ] Begin your new job: start handling events in the [work loop](https://github.com/dewv/procedures/blob/master/workLoop.md)
