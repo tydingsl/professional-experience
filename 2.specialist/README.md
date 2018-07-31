@@ -9,6 +9,7 @@ While you finish up technical training topics at your own pace, you and your new
 - [ ] Learn to [track your tasks and work time](./trackingYourTasksAndWorkTime.md)
 - [ ] [Learn Test-Driven Development](./learnTDD.md)
 - [ ] [The architecture of our Node.js applications](./nodeAppArchitecture.md)
+- [ ] [Learn to use `git` branches](https://github.com/dewv/procedures/blob/master/git/workingBranch.md)
 - [ ] Practice your new job: start handling events in the [work loop](https://github.com/dewv/procedures/blob/master/workLoop.md)
 
 When all of the above are complete, consult the CEO. With CEO approval, you may then:
