@@ -20,11 +20,13 @@ The same ideas can be expressed as a set of values and priorities. This form is 
 > 2. Improving our products and services 
 > 3. Improving our world through the development and operation of computer systems
 
-**As a member of the organization, your fundamental responsibility is to *create value*, as defined just above.**
+**As a member of the organization, your fundamental responsibility is to *create value*, as defined just above.** To do that, you need to understand how we work. 
 
-To do that, you need to understa	nd how we work. Your initial training, or "onboarding", covers the technical, organizational, and procedural knowledge you will need to get started. Your onboarding activities are defined in the `1.trainee` folder of this repo.
+Your initial training is primarily about the technical knowledge you will need to get started. These activities are defined in the `1.trainee` folder of this repo. You will complete the first part of these activities on a fixed schedule with your teammates; the remainder you will work at your own pace.
 
-When your onboarding activities are complete, you will be promoted from trainee to Information Systems Specialist-- a full-fledged member of the technical staff. The `2.specialist` folder in this repo provides guidance on the specific responsibilities of this role, and how to go about meeting them.
+When your onboarding activities are complete, you will be promoted from trainee to Information Systems Specialist-- a full-fledged member of the technical staff. 
+
+Fixed schedule teamwork continues with the tasks in the `2.specialist` folder. These activities provide guidance on the specific responsibilities of the Information Systems Specialist role, and let you practice the related work processes in a team setting. When ready, you will be formally promoted to the title of IS Specialist.
 
 If you enjoy the role of Information Systems Specialist, you may repeat CSCI 290 for elective credit in the major. Alternatively, you may request permission to enroll in CSCI 390; this involves an application for promotion to Information Systems Manager. The manager role has a different set of specific responsibilities. The `3.manager` folder in this repo provides guidance for filling this role.
 
