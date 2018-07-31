@@ -3,7 +3,6 @@
 While you finish up technical training topics at your own pace, you and your new teammates will learn about the responsibilities you were hired to perform, and practice the organizational processes you are expected to follow.
 
 - [ ] [Read your job description](https://github.com/dewv/procedures/blob/master/personnel/jobDescriptionSpecialist.md)
-- [ ] [Learn policies and procedures](./learnPoliciesAndProcedures.md)
 - [ ] Understand your responsibilities related to the [performance evaluation process](https://github.com/dewv/procedures/blob/master/personnel/performanceEvaluationProcess.md)
 - [ ] Learn how to participate in [stand up meetings](https://github.com/dewv/procedures/blob/master/standUpMeetings.md)
 - [ ] Learn to [work with a manager](./workingWithAManager.md)
