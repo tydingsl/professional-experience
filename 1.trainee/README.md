@@ -8,6 +8,7 @@ Each link in the checklists below opens a file of instructions. As you complete 
 
 - [ ] [Learn about GitHub-flavored markdown](./githubFlavoredMarkdown.md)
 - [ ] [Create a LinkedIn profile](./createLinkedInProfile.md)
+- [ ] [Personal leave and other policies](./learnPoliciesAndProcedures.md)
 - [ ] [Sign the FERPA form](./signFERPA.md)
 - [ ] [Maintain a high standard of professional ethics](./ethics.md)
 
