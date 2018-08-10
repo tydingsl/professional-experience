@@ -30,4 +30,4 @@ Fixed schedule teamwork continues with the tasks in the `2.specialist` folder. T
 
 If you enjoy the role of Information Systems Specialist, you may repeat CSCI 290 for elective credit in the major. Alternatively, you may request permission to enroll in CSCI 390; this involves an application for promotion to Information Systems Manager. The manager role has a different set of specific responsibilities. The `3.manager` folder in this repo provides guidance for filling this role.
 
-The `personnel` folder is used on an as needed basis. It is the place for your personal feedback, goals, and plans related to your individual professional development.
+The `personnel` folder is used on an as needed basis. It is the place for feedback, goals, and plans related to your individual professional development.
