@@ -4,7 +4,7 @@ In GitHub, the `dewv` organization has a "project board" for managing the system
 
 An organization's systems portfolio is a central information source about all of its systems and system projects.
 
-The Systems Portfolio project board has five columns or "lists".
+The [Systems Portfolio project board](https://github.com/orgs/dewv/projects/3) has five columns or "lists".
 
 The leftmost column, "Suggestion", is a place to capture ideas for systems that might be pursued someday.
 
